@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+# name origin files
+database/name-origin-csvs/
+database/name_origins.sqlite
